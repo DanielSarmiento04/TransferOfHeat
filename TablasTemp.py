@@ -39,4 +39,5 @@ def getCAndlanda(bi: float,tipo:str)->tuple:
                 return l, c
 
 
+
 print(getCAndlanda(70,'placa'))
